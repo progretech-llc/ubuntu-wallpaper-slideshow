@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Wallpaper Slideshow Control
+Comment=Manage the GNOME wallpaper slideshow
+Exec=/home/YOUR_USER/.local/share/wallpaper-slideshow/control.sh
+Icon=preferences-desktop-wallpaper
+Terminal=false
+Categories=Utility;
